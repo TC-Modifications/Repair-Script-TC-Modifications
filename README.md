@@ -1,12 +1,11 @@
 --------------------------------------
--- On Duty made by TC Modifications --
+-- Repair Script made by TC Modifications --
 --------------------------------------
 
 -- Installation --
-1. Drag and Drop tcmods-onduty into your servers resources/scripts folder
-2. Ensure you have added tcmods-onduty to your server.cfg
+1. Drag and Drop repair-tcmods into your servers resources/scripts folder
+2. Ensure you have added repair-tcmods to your server.cfg
 
-Thank you for contributing to us and our partner/sponsor Real World Roleplay (discord link below). Welcome to our contributing team, we appreciate it so much!
-
+We would appreciate if you would join our Sponsor/Partner Real World Roleplay, below is their discord, we are trying to gain heaps more members, No Pressure Given!
 
 Real World RP Discord: discord.gg/real-world-roleplay
